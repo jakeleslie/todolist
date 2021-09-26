@@ -1,0 +1,28 @@
+body{
+    background-color: #D3D3D3;
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+#clipboard{
+    width: 50%;
+    height: 100px;
+    margin-bottom: 50px;
+    
+}
+#inputField{
+    border-radius: 3px;
+    width: 300px;
+    height: 25px;
+    
+}
+#add{
+    width: 25px;
+    height: 30px;
+    
+}
+#mainContainer{
+    text-align: center;
+}
